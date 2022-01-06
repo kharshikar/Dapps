@@ -1,25 +1,19 @@
-# 🔥 DApp Building Template with TypeScript 🧰
 
-🛠️ An Ethereum template to help you get building ASAP with all the necessary tools you'll actually use!
+### Hi there 
+My name is Prasanna Kharshikar, I'm a Blockchain Architect/Beliver.
 
-⛓️ This template allows you to build Full-Stack Blockchain Applications.
+💡 I'm currently learning Defi Protocols! 🦀 
 
-💥 All the sections below utilize the power of TypeScript.
+🤝 I'm looking to connect with more blockchain developers!
 
-## Technologies Used
+💬 Ask me about Blockchain Consulting, mentoring, or developing an app for you. 
 
-🎨 __Front-end:__
-Next.js (React), Tailwind CSS, Ethers.js, MetaMask, IPFS, Pinata
+🔥 My passions: Tech, 
 
-👷‍♂️ __Smart Contracts:__
-Hardhat, TypeChain, OpenZeppelin, Mocha, Chai
+📫 Reach me at: prasanna@iitbombay.org
 
-🗃️ __Back-end:__
-Node.js, MongoDB, Mongoose, Express, Ethers.js
+🎨 My portfolio site: 
 
-## How to Use
-
-To use this template, all you have to do is select "Use this template" from within the main GitHub repository of this project.
-This will allow you to create a brand new repo using this template as a starting base.
-
-![2022-01-06_11-13](https://user-images.githubusercontent.com/32179921/148439276-dd1618c6-50cc-45f2-99aa-654ad091fff1.png)
+ 
+0 comments on commit 6c38e3b
+@kharshikar
